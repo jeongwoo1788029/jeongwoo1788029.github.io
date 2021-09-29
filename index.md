@@ -46,15 +46,18 @@
 
 - 이미지  
   <img src="./관련이미지1.png">
+  
   <img src="./관련이미지2.png">
+  
   <img src="./관련이미지3.png">
+  
   <img src="./관련이미지4.png">
 
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/그림.png)
+![그림](./img/겜프2대표이미지.png)
 
 <br><br>
 
