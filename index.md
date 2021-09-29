@@ -45,16 +45,20 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련이미지1.png">
-  <img src="./img/관련이미지2.png">
-  <img src="./img/관련이미지3.png">
-  <img src="./img/관련이미지4.png">
+  <img src="./img/관련이미지1.PNG">
+  
+  <img src="./img/관련이미지2.PNG">
+  
+  <img src="./img/관련이미지3.PNG">
+  
+  <img src="./img/관련이미지4.PNG">
   
 <br><br>
 
 # [대표 이미지]
 <img src="./img/겜프2대표이미지.png">
-<img src="./img/서브이미지.png">
+
+<img src="./img/서브이미지.PNG">
 
 
 <br><br>
