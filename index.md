@@ -51,7 +51,7 @@
 
 # [대표 이미지]
 <img src="./img/겜프2대표이미지.png">
-<img src="./img/서브이미지.png">
+<img src1="./img/서브이미지.png">
 
 
 <br><br>
