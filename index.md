@@ -45,9 +45,10 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/관련이미지.jpg">
-- 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  <img src="./관련이미지1.png">
+  <img src="./관련이미지2.png">
+  <img src="./관련이미지3.png">
+  <img src="./관련이미지4.png">
 
 <br><br>
 
