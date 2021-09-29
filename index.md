@@ -45,19 +45,13 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./관련이미지1.png">
   
-  <img src="./관련이미지2.png">
   
-  <img src="./관련이미지3.png">
-  
-  <img src="./관련이미지4.png">
-
 <br><br>
 
 # [대표 이미지]
+<겜프2대표이미지="https://user-images.githubusercontent.com/91235024/135296584-50e57681-8998-4f75-ad97-b1d52aec0f38.png" width="300" height="150"/>
 
-![그림](./img/겜프2대표이미지.png)
 
 <br><br>
 
