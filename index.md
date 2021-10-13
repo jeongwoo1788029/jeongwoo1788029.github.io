@@ -198,10 +198,10 @@ E : 오브젝트와 상호작용
  
  |연번|오브젝트 이름|이미지|
 |------|---|---|
-|1|로봇(플레이어)|<img src="./img/로봇.PNG" width="10" height="10">|
-|2|열쇠(아이템)|<img src="./img/열쇠.PNG">|
-|3|총,총알(아이템)|<img src="./img/총.PNG"> , <img src="./img/총알.PNG">|
-|4|포션(아이템)|<img src="./img/포션.PNG">|
-|5|장애물(총 쏘는 몬스터)|<img src="./img/장애물.PNG">|
-|6|맵 구성 오브젝트|<img src="./img/오브젝트들.PNG">|
-|7|문(다음 공간으로 갈 수 있는 매개체)|<img src="./img/문.PNG">|
+|1|로봇(플레이어)|<img src="./img/로봇.PNG" width="100" height="100">|
+|2|열쇠(아이템)|<img src="./img/열쇠.PNG" width="100" height="100">|
+|3|총,총알(아이템)|<img src="./img/총.PNG" width="100" height="100"> , <img src="./img/총알.PNG" width="100" height="100">|
+|4|포션(아이템)|<img src="./img/포션.PNG" width="100" height="100">|
+|5|장애물(총 쏘는 몬스터)|<img src="./img/장애물.PNG" width="100" height="100">|
+|6|맵 구성 오브젝트|<img src="./img/오브젝트들.PNG" width="100" height="100">|
+|7|문(다음 공간으로 갈 수 있는 매개체)|<img src="./img/문.PNG" width="100" height="100">|
