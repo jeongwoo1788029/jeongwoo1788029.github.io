@@ -637,7 +637,7 @@ E : 오브젝트와 상호작용
 
  
 # [개발작업 일정(6주)] <a name='10'></a>
-  <img src="./img/개발일정캡처본.PNG" width="600" height="900">
+  <img src="./img/개발일정캡처본.PNG" width="600" height="700">
  
  
  
