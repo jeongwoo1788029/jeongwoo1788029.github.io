@@ -453,8 +453,10 @@ E : 오브젝트와 상호작용
    <img src="./img/플로우차트2.PNG" width="11000" height="700">
   
 ## c. 용어정리 <a name='8c'></a>
-    <img src="./img/용어정리1.PNG"> 
-    <img src="./img/용어정리2.PNG"> 
+  
+<img src="./img/용어정리1.PNG">
+  
+<img src="./img/용어정리2.PNG"> 
        
        
        
