@@ -450,7 +450,8 @@ E : 오브젝트와 상호작용
  11. 번호키
     
 ## b. 키보드 이벤트에 대한 흐름도 <a name='8b'></a>
-  - <img src="./img/Untitled Diagram.drawio" width="150" height="100">
+  - <img src="./img/Untitled Diagram.drawio">
+  
 ## c. 용어정리 <a name='8c'></a>
        
        
