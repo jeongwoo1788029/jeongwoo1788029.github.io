@@ -454,8 +454,7 @@ E : 오브젝트와 상호작용
   
 ## c. 용어정리 <a name='8c'></a>
   
-<img src="./img/용어정리.PNG">
-<img src="./img/용어정리2.PNG"> 
+<img src="./img/용어정리.PNG"><img src="./img/용어정리2.PNG"> 
        
        
        
