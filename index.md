@@ -452,7 +452,7 @@ E : 오브젝트와 상호작용
  11. 번호키
     
 ## b. 키보드 이벤트에 대한 흐름도 <a name='8b'></a>
-   <img src="./img/플로우차트2.PNG" width="11000" height="700">
+   <img src="./img/플로우차트수정1.PNG" width="11000" height="700">
   
 ## c. 용어정리 <a name='8c'></a>
   
