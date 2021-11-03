@@ -693,6 +693,12 @@ E : 오브젝트와 상호작용
   + 임의로 적을 만들어 적과 충돌할 시 체력이 줄어드는지 실험 - [100%]
 
 
-
+- 구현영상
+  ![jumpcon](https://user-images.githubusercontent.com/91235024/140054772-56ddba27-310a-4e2d-94aa-d646523a59da.gif)
+  
+  ![hpcon](https://user-images.githubusercontent.com/91235024/140054834-2625dff6-d1ae-4a99-a0e7-769ce1ec8b20.gif)
+  
+  ![발판con](https://user-images.githubusercontent.com/91235024/140054951-a9db50cf-1291-464d-a43a-a01340aba535.gif)
+  
 
  
