@@ -664,7 +664,7 @@ E : 오브젝트와 상호작용
 - 마우스로 시선 및 방향 전환 구현 (+감도 설정)  - [100%]
 - 맵을 15개의 섹션을 나눠 일자형의 전체적인 맵을 구현합니다.  - [100%]
 
-<img src="![convert1](https://user-images.githubusercontent.com/91235024/140036545-97f2c978-e7fc-45bd-80e0-166fbfbda199.gif)" width="500" height="700">
+<img src="![convert1](https://user-images.githubusercontent.com/91235024/140036545-97f2c978-e7fc-45bd-80e0-166fbfbda199.gif)" >
 
 # [2주차 작업 결과] <a name='12'></a>
 작업명 : 2주차 점프, 발판, 플레이어 체력 프로그래밍
