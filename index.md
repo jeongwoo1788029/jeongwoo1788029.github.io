@@ -672,7 +672,7 @@ E : 오브젝트와 상호작용
   
 -멥
   
- <img src="./img/map1.PNG" width="500" height="700">
+ <img src="./img/map1.PNG" width="400" height="600">
  
 # [2주차 작업 결과] <a name='12'></a>
 작업명 : 2주차 점프, 발판, 플레이어 체력 프로그래밍
@@ -694,6 +694,7 @@ E : 오브젝트와 상호작용
 
 
 - 구현영상
+  
   ![jumpcon](https://user-images.githubusercontent.com/91235024/140054772-56ddba27-310a-4e2d-94aa-d646523a59da.gif)
   
   ![hpcon](https://user-images.githubusercontent.com/91235024/140054834-2625dff6-d1ae-4a99-a0e7-769ce1ec8b20.gif)
