@@ -672,7 +672,7 @@ https://user-images.githubusercontent.com/91235024/141099858-06e4a533-43e9-476e-
  
 ![convert1](https://user-images.githubusercontent.com/91235024/140036545-97f2c978-e7fc-45bd-80e0-166fbfbda199.gif)
   
-- 멥
+- 맵
   
  <img src="./img/map1.PNG" width="400" height="600">
  
