@@ -713,7 +713,7 @@ E : 오브젝트와 상호작용
   <video controls="true" allowfullscreen="true" poster="black.png">
     <source src="https://user-images.githubusercontent.com/91235024/141102758-92d0f441-801f-4ea8-8435-777f8a3a7ba5.mp4" type="video/mp4">
   </video>
-</figure>
+
   
 - 4-1 체력 구현
   
@@ -721,4 +721,3 @@ E : 오브젝트와 상호작용
   <video controls="true" allowfullscreen="true" poster="black.png">
     <source src="https://user-images.githubusercontent.com/91235024/141102173-fd77ad42-019e-4956-96f8-34fde33bf576.mp4" type="video/mp4">
   </video>
-</figure>
