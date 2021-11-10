@@ -667,6 +667,7 @@ E : 오브젝트와 상호작용
 - 맵을 15개의 섹션을 나눠 일자형의 전체적인 맵을 구현합니다.  - [100%]
 
 - 구현영상
+  
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
     <source src="https://user-images.githubusercontent.com/91235024/141099858-06e4a533-43e9-476e-ae2e-5bdb1eed76f2.mp4" type="video/mp4">
