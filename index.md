@@ -700,7 +700,7 @@ E : 오브젝트와 상호작용
 
 구현영상
  
-  -9 spacebar를 누를 시 일정 높이를 점프한다.
+-9 spacebar를 누를 시 일정 높이를 점프한다.
   
   <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
@@ -708,7 +708,7 @@ E : 오브젝트와 상호작용
   </video>
 </figure>
   
-  - 22-1 발판 생성
+- 22-1 발판 생성
   
   <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
@@ -716,7 +716,7 @@ E : 오브젝트와 상호작용
   </video>
 </figure>
   
-  - 4-1 체력 구현
+- 4-1 체력 구현
   
   <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
