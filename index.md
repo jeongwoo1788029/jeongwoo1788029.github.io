@@ -805,7 +805,7 @@ E : 오브젝트와 상호작용
   <video controls="true" allowfullscreen="true" poster="black.png">
     <source src="https://user-images.githubusercontent.com/91235024/141150928-b8c611bb-4afa-47ef-a0fc-79da31ed2322.mp4" type="video/mp4">
   </video>
-    
+
     
 ## 추가 및 기타 사항
 - 11 마우스 스크롤로 아이템을 선택할 수 있다.
