@@ -705,7 +705,6 @@ E : 오브젝트와 상호작용
   <video controls="true" allowfullscreen="true" poster="black.png">
     <source src="https://user-images.githubusercontent.com/91235024/141102905-ce10a94a-07a1-4dd9-8515-7d015fc391da.mp4" type="video/mp4">
   </video>
-</figure>
   
 - 22-1 발판 생성
   
