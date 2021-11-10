@@ -685,9 +685,9 @@ E : 오브젝트와 상호작용
   
 9. spacebar를 누를 시 일정 높이를 점프한다. - [100%]
   
-22-1 발판 생성 - [100%] 
+22-1. 발판 생성 - [100%] 
   
-4-1 체력 구현 - [100%]
+4-1. 체력 구현 - [100%]
   
 작업 내용 
   
@@ -699,12 +699,26 @@ E : 오브젝트와 상호작용
   + 임의로 적을 만들어 적과 충돌할 시 체력이 줄어드는지 실험 - [100%]
 
 - 구현영상
+  + 9. spacebar를 누를 시 일정 높이를 점프한다.
   
-  ![jumpcon](https://user-images.githubusercontent.com/91235024/140054772-56ddba27-310a-4e2d-94aa-d646523a59da.gif)
+  <figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/91235024/141102905-ce10a94a-07a1-4dd9-8515-7d015fc391da.mp4" type="video/mp4">
+  </video>
+</figure>
   
-  ![hpcon](https://user-images.githubusercontent.com/91235024/140054834-2625dff6-d1ae-4a99-a0e7-769ce1ec8b20.gif)
+  + 22-1 발판 생성
   
-  ![발판con](https://user-images.githubusercontent.com/91235024/140054951-a9db50cf-1291-464d-a43a-a01340aba535.gif)
+  <figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/91235024/141102758-92d0f441-801f-4ea8-8435-777f8a3a7ba5.mp4" type="video/mp4">
+  </video>
+</figure>
   
-
- 
+  + 4-1 체력 구현
+  
+  <figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/91235024/141102173-fd77ad42-019e-4956-96f8-34fde33bf576.mp4" type="video/mp4">
+  </video>
+</figure>
