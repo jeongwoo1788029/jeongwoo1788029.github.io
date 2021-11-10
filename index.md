@@ -699,8 +699,8 @@ E : 오브젝트와 상호작용
   + 임의로 적을 만들어 적과 충돌할 시 체력이 줄어드는지 실험 - [100%]
 
 - 구현영상
-  
-  - 9 spacebar를 누를 시 일정 높이를 점프한다.
+ 
+  -9 spacebar를 누를 시 일정 높이를 점프한다.
   
   <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
