@@ -801,10 +801,10 @@ E : 오브젝트와 상호작용
  - 19 체력이 0이 될 시 방 시작점에서 리스폰
  - 20 낭떠러지로 일정거리 떨어질 시 체력이 0이 된다.   
     
-  <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="https://user-images.githubusercontent.com/91235024/141150928-b8c611bb-4afa-47ef-a0fc-79da31ed2322.mp4" type="video/mp4">
-  </video> 
+   <figure class="video_container">
+   <video controls="true" allowfullscreen="true" poster="black.png">
+     <source src="https://user-images.githubusercontent.com/91235024/141150928-b8c611bb-4afa-47ef-a0fc-79da31ed2322.mp4" type="video/mp4">
+   </video> 
     
 <br><br>
 
