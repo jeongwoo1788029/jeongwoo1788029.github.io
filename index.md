@@ -861,7 +861,7 @@ E : 오브젝트와 상호작용
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206529-e5098898-a150-43ad-b334-8d6a32e4d137.mp4">
    </video> 
-
+<br>
   
 2) 
   추가 작업
@@ -870,7 +870,7 @@ E : 오브젝트와 상호작용
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206728-ec6fb809-5ff1-4677-83c8-5ae92295edd1.mp4">
    </video> 
-
+<br>
   
 2-1)
   
