@@ -850,7 +850,8 @@ E : 오브젝트와 상호작용
      
 ## 구현영상
 
-1) 메인 요구사항 및 작업사항
+1)  
+     메인 요구사항 및 작업사항
 - 3 특정 오브젝트(쪽지, 문, 번호키, 열쇠)와 ‘e’키로 상호작용할 수 있다. - [75%] (쪽지, 문, 열쇠)
 
 - 13-1 특정 오브젝트(쪽지, 문, 번호키, 열쇠)에 다가갈 시 화면 중앙 하단에 ‘e’ 메시지가 뜬다. - [75%] (쪽지, 문, 열쇠)
@@ -862,7 +863,8 @@ E : 오브젝트와 상호작용
    </video> 
 
   
-2) 추가 작업
+2) 
+  추가 작업
 - 종이(쪽지)와 상호작용 시 마우스와 이미지 뒤 게임 화면이 동시에 움직이는 현상 해결 -> 이미지 뒤 게임 화면 고정
 <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
@@ -871,6 +873,7 @@ E : 오브젝트와 상호작용
 
   
 2-1)
+  
 - 방 이동 시 스폰 포인트 재설정 
 <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
