@@ -884,7 +884,7 @@ E : 오브젝트와 상호작용
      
 -> 영상에나오는 3개의 벽이 나오는데 벽을 지나갈때마다 스폰 장소가 재지정 됩니다.
      
-->  문을 열고 다음 방을 건너가는 도중에 설치하여, 스폰 장소가 재지정됩니다.
+-> 문을 열고 다음 방을 건너가는 도중에 설치하여, 스폰 장소가 재지정됩니다.
      
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
