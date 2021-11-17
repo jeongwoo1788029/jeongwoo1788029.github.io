@@ -850,12 +850,31 @@ E : 오브젝트와 상호작용
      
 ## 구현영상
 
-1)메인 요구사항 및 작업사항
+1) 메인 요구사항 및 작업사항
      
-3 특정 오브젝트(쪽지, 문, 번호키, 열쇠)와 ‘e’키로 상호작용할 수 있다. - [75%](쪽지, 문, 열쇠)
+- 3 특정 오브젝트(쪽지, 문, 번호키, 열쇠)와 ‘e’키로 상호작용할 수 있다. - [75%](쪽지, 문, 열쇠)
 
-13-1 특정 오브젝트(쪽지, 문, 번호키, 열쇠)에 다가갈 시 화면 중앙 하단에 ‘e’ 메시지가 뜬다. - [75%](쪽지, 문, 열쇠)
+- 13-1 특정 오브젝트(쪽지, 문, 번호키, 열쇠)에 다가갈 시 화면 중앙 하단에 ‘e’ 메시지가 뜬다. - [75%](쪽지, 문, 열쇠)
 
-14-1-1 열쇠를 들고 있으면 문과 상호작용 할 수 있다. - [100%]
+- 14-1-1 열쇠를 들고 있으면 문과 상호작용 할 수 있다. - [100%]
      
-
+<figure class="video_container">
+   <video controls="true" allowfullscreen="true" poster="black.png">
+     <source src="https://user-images.githubusercontent.com/91235024/142206529-e5098898-a150-43ad-b334-8d6a32e4d137.mp4">
+   </video> 
+     
+2) 추가 작업
+  
+- 종이(쪽지)와 상호작용 시 마우스와 이미지 뒤 게임 화면이 동시에 움직이는 현상 해결 -> 이미지 뒤 게임 화면 고정 
+  
+<figure class="video_container">
+   <video controls="true" allowfullscreen="true" poster="black.png">
+     <source src="https://user-images.githubusercontent.com/91235024/142206728-ec6fb809-5ff1-4677-83c8-5ae92295edd1.mp4">
+   </video> 
+  
+-  방 이동 시 스폰 포인트 재설정 
+  
+<figure class="video_container">
+   <video controls="true" allowfullscreen="true" poster="black.png">
+     <source src="https://user-images.githubusercontent.com/91235024/142206811-3e7ef0b7-fc84-4848-8f87-3450d58a09a5.mp4">
+   </video> 
