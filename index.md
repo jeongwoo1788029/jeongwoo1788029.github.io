@@ -869,7 +869,6 @@ E : 오브젝트와 상호작용
 -> 종이와 상호작용하는 동시에 시선전환움직임을 비활성화 시킵니다. 
      
 -> 나가는 버튼을 누름과 동시에 다시 활성화 됩니다.
-  
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206728-ec6fb809-5ff1-4677-83c8-5ae92295edd1.mp4">
@@ -883,6 +882,7 @@ E : 오브젝트와 상호작용
 -> 영상에나오는 3개의 벽이 나오는데 벽을 지나갈때마다 스폰 장소가 재지정 됩니다.
      
 ->  문을 열고 다음 방을 건너가는 도중에 설치하여, 스폰 장소가 재지정됩니다.
+     
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206811-3e7ef0b7-fc84-4848-8f87-3450d58a09a5.mp4">
@@ -894,4 +894,4 @@ E : 오브젝트와 상호작용
 - 인벤토리에 아이템은 기존 요구 사항과 다르게 숫자 1,2,3으로 선택할 수 있도록 변경했습니다.
 - 인벤토리 빈 칸을 선택 하였을 때 아무것도 들지않는 기능이 필요합니다.
 - 문을 열때는 문을 바라보고 'e'버튼을 꾹 눌러야 합니다.     
-     145
+   
