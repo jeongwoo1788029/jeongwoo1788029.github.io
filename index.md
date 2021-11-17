@@ -874,7 +874,7 @@ E : 오브젝트와 상호작용
    </video> 
 <br>  
   
--  방 이동 시 스폰 포인트 재설정 
+- 방 이동 시 스폰 포인트 재설정 
   
 <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
