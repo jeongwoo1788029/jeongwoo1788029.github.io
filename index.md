@@ -865,7 +865,8 @@ E : 오브젝트와 상호작용
   
 2) 
 - 종이(쪽지)와 상호작용 시 마우스와 이미지 뒤 게임 화면이 동시에 움직이는 현상 해결 -> 이미지 뒤 게임 화면 고정 
-(종이와 상호작용하는 동시에 시선전환움직임을 비활성화 시킵니다. 나가는 버튼을 누름과 동시에 다시 활성화 됩니다.)
+  -> 종이와 상호작용하는 동시에 시선전환움직임을 비활성화 시킵니다. 
+  -> 나가는 버튼을 누름과 동시에 다시 활성화 됩니다.
   
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
@@ -875,9 +876,9 @@ E : 오브젝트와 상호작용
   
 2-1)
   
-- 방 이동 시 스폰 포인트 재설정 (영상에나오는 3개의 벽이 나오는데 벽을 지나갈때마다 스폰 장소가 재지정 됩니다. 
-                                       문을 열고 다음 방을 건너가는 도중에 설치하여, 스폰 장소가 재지정됩니다.)
-  
+- 방 이동 시 스폰 포인트 재설정
+  -> 영상에나오는 3개의 벽이 나오는데 벽을 지나갈때마다 스폰 장소가 재지정 됩니다. 
+  ->  문을 열고 다음 방을 건너가는 도중에 설치하여, 스폰 장소가 재지정됩니다.
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206811-3e7ef0b7-fc84-4848-8f87-3450d58a09a5.mp4">
