@@ -866,13 +866,14 @@ E : 오브젝트와 상호작용
   
 2) 추가 작업
   
-- 종이(쪽지)와 상호작용 시 마우스와 이미지 뒤 게임 화면이 동시에 움직이는 현상 해결 -> 이미지 뒤 게임 화면 고정 
+- 종이(쪽지)와 상호작용 시 마우스와 이미지 뒤 게임 화면이 동시에 움직이는 현상 해결 -> 이미지 뒤 게임 화면 고정
   
 <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206728-ec6fb809-5ff1-4677-83c8-5ae92295edd1.mp4">
    </video> 
 <br>  
+  
 -  방 이동 시 스폰 포인트 재설정 
   
 <figure class="video_container">
