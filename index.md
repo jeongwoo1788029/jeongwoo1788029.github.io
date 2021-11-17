@@ -862,7 +862,8 @@ E : 오브젝트와 상호작용
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206529-e5098898-a150-43ad-b334-8d6a32e4d137.mp4">
    </video> 
-     
+<br>
+  
 2) 추가 작업
   
 - 종이(쪽지)와 상호작용 시 마우스와 이미지 뒤 게임 화면이 동시에 움직이는 현상 해결 -> 이미지 뒤 게임 화면 고정 
@@ -871,10 +872,11 @@ E : 오브젝트와 상호작용
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206728-ec6fb809-5ff1-4677-83c8-5ae92295edd1.mp4">
    </video> 
-  
+<br>  
 -  방 이동 시 스폰 포인트 재설정 
   
 <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/142206811-3e7ef0b7-fc84-4848-8f87-3450d58a09a5.mp4">
    </video> 
+<br>
