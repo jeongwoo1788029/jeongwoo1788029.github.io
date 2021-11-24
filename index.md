@@ -967,7 +967,28 @@ E : 오브젝트와 상호작용
      
 레이져에 충돌 할 시 플레이어의 일정 체력이 줄어든다. - [100%]
      
-
+## 구현영상
+     
+1)     
+13. 특정 오브젝트(쪽지, 문, 번호키, 열쇠)와 'e'키로 상호작용할 수 있다. - [100%] (쪽지, 문, 열쇠, 번호키)
+     
+13-1 특정 오브젝트에 다가갈 시 화면 중앙 하단에 'e' 메시지가 뜬다. - [100%] (쪽지, 문, 열쇠, 번호키)
+     
+16 .번호키와 상호작용하면 마우스로 누를 수있는 '1~9의 숫자'와 '나가기' 버튼이 있다.-> 키보드로 입력하는 걸로 변경 - [100%]
+     
+16-1 정답 번호를 누를 시 '문을 열수 있다.'라는 메시지가 뜬다. -> 문과 상호작용할 수 있다. - [100%]
+     
+  <figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/91235024/141102758-92d0f441-801f-4ea8-8435-777f8a3a7ba5.mp4" type="video/mp4">
+  </video>
+    
+2)
+22-2. 레이져 생성 - [100%]
+  <figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/91235024/141102758-92d0f441-801f-4ea8-8435-777f8a3a7ba5.mp4" type="video/mp4">
+  </video>
      
      
      
