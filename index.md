@@ -1004,6 +1004,11 @@ E : 오브젝트와 상호작용
 - 추가사항 : 리스폰 오브젝트와 충돌(Triggercollision)하면 손에 들고 있는 아이템(열쇠)이 사라진다.   
 - 수정사항 : 인벤토리 1~3번 누르면 인벤토리가 비워지고 손에 들게 된다.
 
+  <figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="https://user-images.githubusercontent.com/91235024/143250352-84d6ef67-ac17-4e52-a81d-ee71ad2c52b6.mp4">
+  </video>
+<br>
  
  
      
