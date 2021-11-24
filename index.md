@@ -969,7 +969,8 @@ E : 오브젝트와 상호작용
      
 ## 구현영상
      
-1)     
+1) 
+     
 13. 특정 오브젝트(쪽지, 문, 번호키, 열쇠)와 'e'키로 상호작용할 수 있다. - [100%] (쪽지, 문, 열쇠, 번호키)
      
 13-1 특정 오브젝트에 다가갈 시 화면 중앙 하단에 'e' 메시지가 뜬다. - [100%] (쪽지, 문, 열쇠, 번호키)
@@ -984,12 +985,13 @@ E : 오브젝트와 상호작용
   </video>
     
 2)
+    
 22-2. 레이져 생성 - [100%]
+    
   <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="black.png">
     <source src="https://user-images.githubusercontent.com/91235024/143243141-b03c53a5-ae1d-4d01-bfb4-6c2a6d8cc977.mp4">
   </video>
-
 <br>
      
 ## 추가,기타 사항 
