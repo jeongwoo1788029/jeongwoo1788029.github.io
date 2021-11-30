@@ -1074,14 +1074,13 @@ E : 오브젝트와 상호작용
 
 - 25 움직이는 발판 및 레이져가 있다.   - [100%]
 
-
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/144019440-48b70229-b4ce-46e2-97c9-2a92134433fe.mp4">
    </video> 
 <br>
      
-    <figure class="video_container">
+   <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/144019900-be86203c-516a-48bc-bc2e-a59d447f11de.mp4">
    </video> 
@@ -1098,6 +1097,7 @@ E : 오브젝트와 상호작용
      <source src="https://user-images.githubusercontent.com/91235024/144020170-39541a50-2c37-4b97-afc2-0bad16c691c6.mp4">
    </video> 
 <br>
+     
    <figure class="video_container">
    <video controls="true" allowfullscreen="true" poster="black.png">
      <source src="https://user-images.githubusercontent.com/91235024/144020421-11d95023-c238-429d-bf6b-fc65c0126460.mp4">
