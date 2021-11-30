@@ -44,6 +44,7 @@
 
 ### 15. [5주차 작업 결과](#15)
 
+### 16. [6주차 작업 결과](#16)
 
 # 프로젝트명: Scenario <a name='프로젝트명'></a>
 
@@ -1012,7 +1013,90 @@ E : 오브젝트와 상호작용
     <source src="https://user-images.githubusercontent.com/91235024/143250352-84d6ef67-ac17-4e52-a81d-ee71ad2c52b6.mp4">
   </video>
 <br>
- 
+   
+    
+# [6주차 작업 결과] <a name='16'></a>
+작업명 : 레이져, 발판 기능 추가 보충(엔딩, 문제 이미지 추가) 및 마무리(배치)
+
+## 해당 요구사항 
+
+12-1 방마다 컨셉에 맞춰 구성하기(배치) - [40%]
+
+23. 생성과 제거가 일정 시간을 간격으로 반복되는 발판 및 레이져가 있다. - [100%]
+
+24. 눈에 보이지만 밟을 수 없는 발판 및 레이져가 존재한다. - [100%]
+
+25. 움직이는 발판 및 레이져가 있다.   - [100%]
+
+26. 배드엔딩 구현(씬 전환) - [100%] 
+
+27. 해피엔딩 및 히든엔딩 구현(해피엔딩 씬 전환) - [100%]
+     
+## 작업 내용 : 
+
+1. 생성 제거가 일정 시간을 간격으로 반복되는 발판 , 레이져 기능 추가 - [100%]
+    
+2. 눈에 보이지만 밟을 수 없는 발판 및 레이져 기능 추가 - [100%]
+    
+3. 움직이는 발판 및 레이져 기능 추가 - [100%]
+    
+4. 해피엔딩 씬전환 구현 + 간단한 맵 - [100%]
+    
+5. 배드엔딩 씬전환 구현 + 간단한 맵 - [100%]
+    
+6. 쪽지(종이) 상호작용 시 나타나는 문제를 방마다 다르게 설정 - [100%]
+    
+7. 방마다 컨셉에 맞춰 오브젝트 배치 - [40%]
+    
+
+
+- 추가,기타 사항
+    
+     
+
+     
+## 구현영상
+
+1) 
+     
+- 
+
+- 
+
+- 
+     
+   <figure class="video_container">
+   <video controls="true" allowfullscreen="true" poster="black.png">
+     <source src="https://user-images.githubusercontent.com/91235024/142206529-e5098898-a150-43ad-b334-8d6a32e4d137.mp4">
+   </video> 
+<br>
+  
+2) 
+     
+- 
+     
+   <figure class="video_container">
+   <video controls="true" allowfullscreen="true" poster="black.png">
+     <source src="https://user-images.githubusercontent.com/91235024/142206728-ec6fb809-5ff1-4677-83c8-5ae92295edd1.mp4">
+   </video> 
+<br>
+     
+2-1)
+  
+-
+     
+   <figure class="video_container">
+   <video controls="true" allowfullscreen="true" poster="black.png">
+     <source src="https://user-images.githubusercontent.com/91235024/142206811-3e7ef0b7-fc84-4848-8f87-3450d58a09a5.mp4">
+   </video> 
+<br>
+
+## 추가,기타 사항 
+     
+- 인벤토리에 아이템은 기존 요구 사항과 다르게 숫자 1,2,3으로 선택할 수 있도록 변경했습니다.
+- 인벤토리 빈 칸을 선택 하였을 때 아무것도 들지않는 기능이 필요합니다.
+- 문을 열때는 문을 바라보고 'e'버튼을 꾹 눌러야 합니다.     
+   
  
      
      
